@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "I WISH",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-15T01:34:22.474392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are the Good Times Really Over (I Wish a Buck Was Still Silver) - Single Version",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/01_Are_the_Good_Times_Really_Over_(I_Wish_a_Buck_Was_Still_Silver)_-_Single_Version_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are The Good Times Really Over (I Wish A Buck Was Still Silver) (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/02_Are_The_Good_Times_Really_Over_(I_Wish_A_Buck_Was_Still_Silver)_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Wish Grandpas Never Died",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/03_I_Wish_Grandpas_Never_Died_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wish You Could Have Turned My Head (And Left My Heart Alone)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/04_I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wish You Could Have Turned My Head (And Left My Heart Alone)",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/05_I_Wish_You_Could_Have_Turned_My_Head_(And_Left_My_Heart_Alone)_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wish You Were Beer",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/06_I_Wish_You_Were_Beer_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bullet Proof ... I Wish I Was",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Bullet_Proof_..._I_Wish_I_Was_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wish You Well",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/08_I_Wish_You_Well_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Damn I Wish I Was Your Lover",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": true,
+      "path": "select/09_Damn_I_Wish_I_Was_Your_Lover_Sophie_B._Hawkins.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "예쁜 소녀 I Wish",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/10_예쁜_소녀_I_Wish_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "예쁜 소녀 (I Wish)",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/11_예쁜_소녀_(I_Wish)_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Wish I Knew How It Would Feel To Be Free",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/12_I_Wish_I_Knew_How_It_Would_Feel_To_Be_Free_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Wish I Knew How It Would Feel To Be Free",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/13_I_Wish_I_Knew_How_It_Would_Feel_To_Be_Free_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Wish You Would",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_I_Wish_You_Would_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bullet Proof ... I Wish I Was - Acoustic",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_Bullet_Proof_..._I_Wish_I_Was_-_Acoustic_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bullet Proof... I Wish I Was (Acoustic)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_Bullet_Proof..._I_Wish_I_Was_(Acoustic)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Wish I Had an Evil Twin",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/17_I_Wish_I_Had_an_Evil_Twin_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN feat. Taylor Swift",
+      "has_synced": true,
+      "path": "select/18_I_Don't_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN_feat._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/19_I_Don’t_Wanna_Live_Forever_(Fifty_Shades_Darker)_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Knew You Were Trouble.",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/20_I_Knew_You_Were_Trouble._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/21_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Am I The Only One",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/22_Am_I_The_Only_One_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Baby I Am",
+      "artist": "Dalton Dover",
+      "has_synced": true,
+      "path": "select/23_Baby_I_Am_Dalton_Dover.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/24_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Ain't Worried",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/25_I_Ain't_Worried_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton]",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/26_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_[feat._Chris_Staple_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/27_I_Bet_You_Think_About_Me_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Can't Dance - Remastered 2007",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/28_I_Can't_Dance_-_Remastered_2007_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/29_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker feat. Julie Bergan",
+      "has_synced": true,
+      "path": "select/30_I_Don't_Wanna_Go_Alan_Walker_feat._Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker;Julie Bergan",
+      "has_synced": true,
+      "path": "select/31_I_Don't_Wanna_Go_Alan_Walker;Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "I Feel It Coming",
+      "artist": "The Weeknd feat. Daft Punk",
+      "has_synced": true,
+      "path": "select/32_I_Feel_It_Coming_The_Weeknd_feat._Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I Hope (feat. Charlie Puth)",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/33_I_Hope_(feat._Charlie_Puth)_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/34_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I WISH",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_I_WISH_モーニング娘。.txt"
+    }
+  ]
+}
